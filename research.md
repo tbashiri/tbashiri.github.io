@@ -6,7 +6,7 @@ layout: single
 
 ## Overview
 
-My research focuses on high-resolution laser spectroscopy of calcium-containing molecular systems, with applications to precision measurement, molecular structure determination, and isotope-resolved spectroscopy.
+My research focuses on high-resolution laser spectroscopy of calcium-containing molecules, with applications to precision and analytical measurements. 
 
 I am broadly interested in experimental AMO physics and chemical physics, particularly in developing and applying spectroscopic techniques to extract molecular constants and isotope-sensitive observables.
 
@@ -35,18 +35,6 @@ This work includes:
 - High-resolution spectral modeling  
 
 This system provides a benchmark for precision molecular spectroscopy and tests of molecular structure theory.
-
----
-
-## Spatial Heterodyne Spectroscopy
-
-We develop and apply spatial heterodyne spectroscopy (SHS) techniques for high-resolution molecular spectroscopy.
-
-Key goals include:
-- Enhancing spectral resolution without moving parts  
-- Improving signal-to-noise in broadband molecular spectra  
-- Enabling compact, high-stability spectroscopic measurements  
-- Application to molecular beam and gas-phase spectroscopy  
 
 ---
 
