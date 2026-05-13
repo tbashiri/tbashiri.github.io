@@ -6,6 +6,19 @@ plugins:
 
 author:
   name: "Termeh Bashiri"
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD Candidate in Physical Chemistry at Caltech"
+  location: "Pasadena, California"
+  email: "your_email_here"
+
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/YOURUSERNAME"
 
 minimal_mistakes_skin: "default"
 
