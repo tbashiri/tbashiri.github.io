@@ -25,6 +25,6 @@ author:
       url: "https://www.linkedin.com/in/termehbashiri/"
 
 
-minimal_mistakes_skin: "catppuccin_mocha"
-
+minimal_mistakes_skin  : "dark"
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 markdown: kramdown
