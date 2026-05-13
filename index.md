@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: "Termeh Bashiri"
 ---
 
 I am a PhD candidate in Physical Chemistry at the California Institute of Technology working in laser spectroscopy and molecular spectroscopy.
