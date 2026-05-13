@@ -14,11 +14,7 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"
-
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOURUSERNAME"
+      url: "https://scholar.google.com/termehbashiri"
 
 minimal_mistakes_skin: "default"
 
