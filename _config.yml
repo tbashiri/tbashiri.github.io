@@ -1,9 +1,11 @@
-title: "test Bashiri"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+
+title: "Termeh Bashiri"
 name: "Termeh Bashiri"
 description: "PhD Candidate in Physical Chemistry at Caltech"
 url: "https://termehbashiri.com"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+
 plugins:
   - jekyll-include-cache
 
