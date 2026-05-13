@@ -15,7 +15,7 @@ author:
 
   links:
     - label: "ORCID"
-      icont: "fa-brands fa-orcid"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-6579-0742"
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
