@@ -3,6 +3,7 @@ name: "Termeh Bashiri"
 description: "PhD Candidate in Physical Chemistry at Caltech"
 url: "https://termehbashiri.com"
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
 
@@ -25,6 +26,5 @@ author:
       url: "https://www.linkedin.com/in/termehbashiri/"
 
 
-minimal_mistakes_skin  : "dark"
-# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 markdown: kramdown
