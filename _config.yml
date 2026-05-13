@@ -15,7 +15,7 @@ author:
 
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=waOL2ssAAAAJ&hl=en"
     - label: "Researchgate"
       icont: "fas fa-brands fa-researchgate"
