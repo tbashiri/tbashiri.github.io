@@ -17,9 +17,12 @@ author:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=waOL2ssAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/termehbashiri/"
     - label: "Researchgate"
-      icont: "fas fa-brands fa-researchgate"
-      url: 
+      icont: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Termeh-Bashiri?ev=hdr_xprf"
 
 minimal_mistakes_skin: "dirt"
 
