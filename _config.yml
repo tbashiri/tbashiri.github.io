@@ -1,5 +1,7 @@
 title: "Termeh Bashiri"
+name: "Termeh Bashiri"
 description: "PhD Candidate in Physical Chemistry at Caltech"
+url: "https://termehbashiri.com"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
@@ -15,6 +17,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=waOL2ssAAAAJ&hl=en"
+    - label: "Researchgate"
+      icont: "fas fa-brands fa-researchgate"
+      url: 
 
 minimal_mistakes_skin: "dirt"
 
