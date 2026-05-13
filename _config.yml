@@ -18,11 +18,11 @@ author:
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=waOL2ssAAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/termehbashiri/"
-    - label: "Researchgate"
-      icont: "fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Termeh-Bashiri?ev=hdr_xprf"
+    - label: "ORCID"
+      icont: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-6579-0742"
 
 minimal_mistakes_skin: "dirt"
 
