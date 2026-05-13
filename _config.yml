@@ -1,0 +1,12 @@
+title: "Termeh Bashiri"
+description: "PhD Candidate in Physical Chemistry at Caltech"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Termeh Bashiri"
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
